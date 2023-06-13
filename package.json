@@ -1,0 +1,16 @@
+{
+  "name": "pomodoro-timer",
+  "productName": "Pomodoro Electron",
+  "version": "1.0.0",
+  "description": "Pomodoro timer written in Electron",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh R C",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
